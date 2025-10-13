@@ -3,7 +3,7 @@
   [![Awesome](https://awesome.re/badge.svg)](https://github.com/RManLuo/Awesome-LLM-KG)
  ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-This repository aims to provide links to works about Retrieval Augmented Generation (RAG) on Recommendations.
+This repository aims to provide links to works about Retrieval Augmented Generation (RAG) for Recommendations.
 
 ------
 
