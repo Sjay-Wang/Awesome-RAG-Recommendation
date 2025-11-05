@@ -14,7 +14,7 @@ This repository aims to provide links to works about Retrieval Augmented Generat
 - **K-RagRec: Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation**, ACL, 2025  [[paper]](https://arxiv.org/abs/2501.02226) [[code]](https://github.com/Sjay-Wang/K-ragrec)
 - **KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**, arxiv, 2025 [[paper]](https://arxiv.org/abs/2507.05863)
 - **Visiorag: A Multimodal Framework for Enhancing Recommendation System Using Vision Transformers and Rag**, CAI, 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/11050521)
-- **RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**, arxiv, 2025  [[paper]](https://arxiv.org/abs/2501.02226) [[code]](https://github.com/RecSys-lab/RAG-VisualRec)
+- **RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**, arxiv, 2025  [[paper]](https://arxiv.org/abs/2506.20817) [[code]](https://github.com/RecSys-lab/RAG-VisualRec)
 - **Enhanced Recommendation Systems with Retrieval-Augmented Large Language Model**, JAIR, 2025 [[paper]](https://arxiv.org/abs/2308.10835)
 - **Graph Retrieval-Augmented LLM for Conversational Recommendation Systems**, PAKDD, 2025 [[paper]](https://arxiv.org/abs/2503.06430)
 - **Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**, arxiv, 2025 [[paper]](https://arxiv.org/abs/2501.02727)
